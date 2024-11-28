@@ -1,61 +1,83 @@
-# Privacy Policy for LinkedInSaves
+**Copyright © 2024 LinkedInSaves. All Rights Reserved.**
 
-Effective Date: 28/11/2024
+## Effective Date: November 28, 2024
+**Last Updated:** November 28, 2024
 
-Last Updated: 28/11/2024
+### 1. Introduction
 
-### Introduction
+1.1 LinkedInSaves ("we", "our", or "us") is committed to protecting the privacy of our users. This Privacy Policy describes how we collect, use, store, and protect your information when you use our browser extension (the "LinkedInSaves Extension").
 
-LinkedInSaves is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your data when you use our browser extension LinkedInSaves. By using the Extension, you agree to the terms outlined in this Privacy Policy.
+1.2 By installing or using the Extension, you agree to the terms of this Privacy Policy.
 
-### 1. Data We Collect
+### 2. Data Collection
 
-#### a. Data You Provide
+#### 2.1 User-Provided Data
+- Saved LinkedIn posts
+- User-initiated actions within the Extension
 
-- **Saved Posts**: The Extension may allow you to save and manage posts locally on your device. This data is not transmitted to any external servers or third parties.
+#### 2.2 Automatically Collected Information
+- Anonymous usage analytics
+- Feature interaction metrics
+- Performance and diagnostic data
 
-#### b. Automatically Collected Data
+#### 2.3 Data We Do Not Collect
+- Personally identifiable information
+- User saved posts
+- External tracking information
 
-- **Usage Analytics**: We may collect anonymous usage data to understand how users interact with the Extension (e.g., the number of times features are used). This data does not include personally identifiable information.
+### 3. Data Usage and Processing
 
-#### c. Non-Collected Data
+3.1 We use collected data exclusively to:
+- Provide Extension functionality
+- Improve user experience
+- Perform necessary maintenance and troubleshooting
 
-- **Search Input**: Your search queries within the Extension are processed locally on your device and are not stored or shared with us or third parties.
+3.2 We do not:
+- Sell user data
+- Share personal information with third parties
+- Use data for marketing purposes
 
-### 2. How We Use Your Data
+### 4. Data Storage and Security
 
-We use the data collected solely to provide, maintain, and improve the functionality of the Extension, including:
+4.1 Storage Principles
+- All user data is stored locally on the user's device
+- No cloud storage or external server retention
 
-- Allowing you to search and retrieve locally saved posts.
-- Enhancing the user experience based on anonymous analytics.
+### 5. User Rights and Controls
 
-We do not sell, rent, or share your personal data with third parties for any purpose.
+5.1 User Controls
+- Full control over saved content
+- Ability to delete saved posts
+- Option to reset or clear local data
 
-### 3. Data Storage and Security
+5.2 Data Retention
+- Data remains on user's device
+- Uninstalling the Extension removes all local data
 
-All data (e.g., saved posts) is stored locally on your device. We do not collect or store this data on external servers.
+### 6. Compliance and Legal Considerations
 
-We implement reasonable security measures to protect your data from unauthorized access or misuse.
+6.1 Age Restrictions
+- Not intended for users under 13 years old
+- No knowingly collected data from minors
 
-### 4. Third-Party Services
+6.2 Regulatory Compliance
+- Adherence to relevant privacy regulations
+- Commitment to user privacy protection
 
-This Extension does not integrate with third-party services, APIs, or external platforms that access or process your data.
+### 7. Policy Updates
 
-### 5. Your Choices
+7.1 We reserve the right to modify this Privacy Policy:
+- Updates will be published in the Extension
+- Continued use implies acceptance of updated terms
 
-- **Managing Your Data**: You can delete your saved posts and search inputs directly from within the Extension.
-- **Uninstalling the Extension**: If you choose to uninstall the Extension, all associated data will be removed from your device.
+### 8. Contact Information
 
-### 6. Children's Privacy
-
-This Extension is not intended for use by individuals under the age of 13. We do not knowingly collect data from children.
-
-### 7. Changes to This Privacy Policy
-
-We may update this Privacy Policy to reflect changes in our practices or for other operational, legal, or regulatory reasons. The updated policy will be made available via the Extension.
-
-### 8. Contact Us
-
-If you have any questions or concerns about this Privacy Policy or the Extension, please contact us:
-
+For privacy-related inquiries:
 - **Email**: ayarsk4343@gmail.com
+- **Effective Date of Current Policy**: November 28, 2024
+
+### 9. Disclaimer
+
+This policy is subject to change. Users are encouraged to review it periodically.
+
+**© 2024 LinkedInSaves. All Rights Reserved.**
